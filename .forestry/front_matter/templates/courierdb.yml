@@ -2,4 +2,19 @@
 label: courierdb
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: datetime
+  name: Date
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: image_for_top_of_page
+  label: Image for top of page
+  description: One big image please
+- type: textarea
+  name: my_blog
+  label: Type your blog here
+  description: Say it here
+  config:
+    required: true
