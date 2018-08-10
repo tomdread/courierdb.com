@@ -18,3 +18,5 @@ fields:
   description: Say it here
   config:
     required: true
+pages:
+- content/about.md
