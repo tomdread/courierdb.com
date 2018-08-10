@@ -1,0 +1,18 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Courier db"
+theme = "ananke"
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https:facebook.com/tomdread"
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+
