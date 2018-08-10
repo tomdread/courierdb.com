@@ -19,5 +19,6 @@ fields:
   config:
     required: true
 pages:
+- content/posts/is-this-working.md
 - content/my-new-page.md
 - content/about.md
